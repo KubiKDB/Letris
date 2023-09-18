@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Letris</string>
+    <string name="text_size">30dp</string>
+</resources>
